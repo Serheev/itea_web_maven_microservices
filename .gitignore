@@ -1,0 +1,6 @@
+# Default ignored files
+.idea/
+target/
+.mvn
+*.iml
+demoApplication.log
